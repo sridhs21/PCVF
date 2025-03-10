@@ -1,0 +1,34 @@
+#web framework
+Flask==2.3.3
+gunicorn==21.2.0
+
+#data processing
+pandas==2.1.0
+numpy==1.25.2
+scikit-learn==1.3.0
+
+#NLP
+nltk==3.8.1
+textblob==0.17.1
+
+#web scraping
+Scrapy==2.10.0
+selenium==4.12.0
+webdriver-manager==4.0.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+#database
+SQLAlchemy==2.0.20
+pymongo==4.5.0
+
+#schedule and background tasks
+schedule==1.2.0
+apscheduler==3.10.4
+
+#testing
+pytest==7.4.1
+
+#utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
