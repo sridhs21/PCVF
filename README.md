@@ -73,7 +73,7 @@ User Input → Web App → Recommender ← Vet Analyzer
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/petcare-vet-finder.git
+   git clone https://github.com/sridhs21/PCVF.git
    cd petcare-vet-finder
    ```
 
